@@ -1,0 +1,9 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The data, tables and figures in this deposit are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+The analysis scripts (tables/rebuild_tables.py, figures/make_figures.py) are released
+under the MIT License.
+
+If you use this dataset, please cite the accompanying paper and this deposit.
