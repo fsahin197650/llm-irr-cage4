@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Data and analysis scripts for: When Does Credit Assignment Help? A Rigorous Null Result for Large Language Model-Guided Reward Refinement in Multi-Agent Cyber Defense"
+type: dataset
+authors:
+  - family-names: "Mert"
+    given-names: "Necibe Sare"
+    affiliation: "Istanbul Topkapi University"
+  - family-names: "Şahin"
+    given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0002-8036-3156"
+    affiliation: "Istanbul Topkapi University"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22077543
+    description: "Archived snapshot of this repository"
+doi: 10.5281/zenodo.22077543
+license: CC-BY-4.0
+year: 2026
