@@ -1,8 +1,9 @@
 # Data and analysis code — *When Does Credit Assignment Help? A Rigorous Null Result for Large Language Model-Guided Reward Refinement in Multi-Agent Cyber Defense*
 
-Fatih Şahin, Department of Computer Engineering, Istanbul Topkapi University
+Fatih Şahin, Department of Software Engineering, Istanbul Topkapi University
 ORCID: 0000-0002-8036-3156
-
+Necibe Sare Mert,  Department of Software Engineering, Istanbul Topkapi University
+ORCID: 0009-0009-7866-7167
 **DOI: [10.5281/zenodo.22077543](https://doi.org/10.5281/zenodo.22077543)**
 
 This deposit contains every run, table and figure behind the paper, plus scripts that
